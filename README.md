@@ -216,8 +216,8 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 ### 🔗 Project Links
 
-**GitHub Repository:**
+**GitHub Repository**:https://github.com/AbhishekKommu/Inventory-Management-System-2/tree/main
 
 
-**Live Demo:**
+**Live Demo**:https://github.com/AbhishekKommu/Inventory-Management-System-2/edit/main/README.md
 Add your deployed application link here.
